@@ -1,7 +1,7 @@
 # Technical-Documentation-Page
 
 
-**  Screenshots  **
+**Screenshots**
 
 ![screenshot1](https://github.com/AMSANJEEV28/Technical-Documentation-Page/blob/main/Screenshot%20(1).png)
 
@@ -11,5 +11,5 @@
 
 ![screenshot4](https://github.com/AMSANJEEV28/Technical-Documentation-Page/blob/main/Screenshot%20(4).png)
 
-**CodePen Link **
+**CodePen Link**
 https://codepen.io/AMSANJEEV/pen/oNeOLmj
